@@ -1,5 +1,7 @@
 # Rekap Nilai Mahasiswa UTS
 
+Repository publik: https://github.com/RazorFangKun77/akademik-uts-2026
+
 Proyek ini dibuat untuk menampilkan data nilai mahasiswa dengan fitur pencarian, pengurutan, dan paginasi. Selain itu, setiap data mahasiswa juga menampung URL foto profil agar dapat ditampilkan di kolom Nama Mahasiswa.
 
 ## Fitur utama
